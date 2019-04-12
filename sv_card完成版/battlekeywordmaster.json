@@ -1,0 +1,716 @@
+{
+  "battlekeywordmaster":{
+    "Jpn":{
+      "Battle_keyword_Title_0001":"戰吼",
+      "Battle_keyword_Title_0002":"遺言",
+      "Battle_keyword_Title_0003":"進化時",
+      "Battle_keyword_Title_0004":"攻撃時",
+      "Battle_keyword_Title_0005":"守護",
+      "Battle_keyword_Title_0006":"疾走",
+      "Battle_keyword_Title_0007":"潛伏",
+      "Battle_keyword_Title_0008":"必殺",
+      "Battle_keyword_Title_0009":"吸血",
+      "Battle_keyword_Title_0010":"覺醒",
+      "Battle_keyword_Title_0011":"復讐",
+      "Battle_keyword_Title_0012":"咒術強化",
+      "Battle_keyword_Title_0013":"倒數計時",
+      "Battle_keyword_Title_0014":"死靈術",
+      "Battle_keyword_Title_0015":"土之秘術",
+      "Battle_keyword_Title_0016":"精靈",
+      "Battle_keyword_Title_0017":"薔薇的一撃",
+      "Battle_keyword_Title_0018":"雪人",
+      "Battle_keyword_Title_0019":"黏土魔像",
+      "Battle_keyword_Title_0020":"侍衛的煉成",
+      "Battle_keyword_Title_0021":"侍衛魔像",
+      "Battle_keyword_Title_0022":"土之魔片",
+      "Battle_keyword_Title_0023":"第二次的詛咒",
+      "Battle_keyword_Title_0024":"最終的詛咒",
+      "Battle_keyword_Title_0025":"騎士",
+      "Battle_keyword_Title_0026":"重騎士",
+      "Battle_keyword_Title_0027":"鋼之騎士",
+      "Battle_keyword_Title_0028":"海盜",
+      "Battle_keyword_Title_0029":"維京海盜",
+      "Battle_keyword_Title_0030":"要塞守衛",
+      "Battle_keyword_Title_0031":"乙姫守護隊",
+      "Battle_keyword_Title_0032":"森之蝙蝠",
+      "Battle_keyword_Title_0033":"神聖之隼",
+      "Battle_keyword_Title_0034":"神聖炎虎",
+      "Battle_keyword_Title_0035":"天馬",
+      "Battle_keyword_Title_0036":"守護之狐",
+      "Battle_keyword_Title_0037":"大翼的白龍",
+      "Battle_keyword_Title_0038":"壯麗之鷹",
+      "Battle_keyword_Title_0039":"巴隆",
+      "Battle_keyword_Title_0040":"夢幻之兔",
+      "Battle_keyword_Title_0041":"龍",
+      "Battle_keyword_Title_0042":"陣風之龍",
+      "Battle_keyword_Title_0043":"骷髏",
+      "Battle_keyword_Title_0044":"鬼魅",
+      "Battle_keyword_Title_0045":"殭屍",
+      "Battle_keyword_Title_0046":"巫妖",
+      "Battle_keyword_Title_0047":"咪咪",
+      "Battle_keyword_Title_0048":"可可",
+      "Battle_keyword_Title_0049":"花瓣劍術師",
+      "Battle_keyword_Title_0050":"決鬥者・摩帝凱",
+      "Battle_keyword_Title_0051":"詠唱：夢想之兔",
+      "Battle_keyword_Title_0052":"蜥蜴人",
+      "Battle_keyword_Title_0053":"默示錄牌組",
+      "Battle_keyword_Title_0054":"雙子囚徒・芙拉姆",
+      "Battle_keyword_Title_0055":"雙子囚徒・古拉斯",
+      "Battle_keyword_Title_0056":"芙拉姆＝古拉斯",
+      "Battle_keyword_Title_0057":"精靈",
+      "Battle_keyword_Title_0058":"薔薇的一撃",
+      "Battle_keyword_Title_0059":"雪人",
+      "Battle_keyword_Title_0060":"黏土魔像",
+      "Battle_keyword_Title_0061":"侍衛的煉成",
+      "Battle_keyword_Title_0062":"侍衛魔像",
+      "Battle_keyword_Title_0063":"土之魔片",
+      "Battle_keyword_Title_0064":"第二次的詛咒",
+      "Battle_keyword_Title_0065":"最終的詛咒",
+      "Battle_keyword_Title_0066":"騎士",
+      "Battle_keyword_Title_0067":"重騎士",
+      "Battle_keyword_Title_0068":"鋼之騎士",
+      "Battle_keyword_Title_0069":"海盜",
+      "Battle_keyword_Title_0070":"維京海盜",
+      "Battle_keyword_Title_0071":"要塞守衛",
+      "Battle_keyword_Title_0072":"乙姫守護隊",
+      "Battle_keyword_Title_0073":"森之蝙蝠",
+      "Battle_keyword_Title_0074":"神聖之隼",
+      "Battle_keyword_Title_0075":"神聖炎虎",
+      "Battle_keyword_Title_0076":"天馬",
+      "Battle_keyword_Title_0077":"守護之狐",
+      "Battle_keyword_Title_0078":"大翼的白龍",
+      "Battle_keyword_Title_0079":"壯麗之鷹",
+      "Battle_keyword_Title_0080":"巴隆",
+      "Battle_keyword_Title_0081":"夢幻之兔",
+      "Battle_keyword_Title_0082":"龍",
+      "Battle_keyword_Title_0083":"陣風之龍",
+      "Battle_keyword_Title_0084":"骷髏",
+      "Battle_keyword_Title_0085":"鬼魅",
+      "Battle_keyword_Title_0086":"殭屍",
+      "Battle_keyword_Title_0087":"巫妖",
+      "Battle_keyword_Title_0088":"咪咪",
+      "Battle_keyword_Title_0089":"可可",
+      "Battle_keyword_Title_0090":"花瓣劍術師",
+      "Battle_keyword_Title_0091":"決鬥者・摩帝凱",
+      "Battle_keyword_Title_0092":"詠唱：夢想之兔",
+      "Battle_keyword_Title_0093":"蜥蜴人",
+      "Battle_keyword_Title_0094":"突進",
+      "Battle_keyword_Title_0095":"水晶精靈・伊芙",
+      "Battle_keyword_Title_0096":"盾之守衛",
+      "Battle_keyword_Title_0097":"列奧尼達的遺志",
+      "Battle_keyword_Title_0098":"垃圾魔像",
+      "Battle_keyword_Title_0099":"凍結的魔像",
+      "Battle_keyword_Title_0100":"紅蓮魔術",
+      "Battle_keyword_Title_0101":"虎鯨",
+      "Battle_keyword_Title_0102":"地獄焰龍",
+      "Battle_keyword_Title_0103":"絕速的甲蟲",
+      "Battle_keyword_Title_0104":"絕死的毒蜂",
+      "Battle_keyword_Title_0105":"絕護的魔蠍",
+      "Battle_keyword_Title_0106":"亞德曼之鳥",
+      "Battle_keyword_Title_0107":"泡沫之月",
+      "Battle_keyword_Title_0108":"覺醒的熾天使",
+      "Battle_keyword_Title_0109":"甦醒的熾天使",
+      "Battle_keyword_Title_0110":"榮光的六翼天使・青金石",
+      "Battle_keyword_Title_0111":"水晶精靈・伊芙",
+      "Battle_keyword_Title_0112":"盾之守衛",
+      "Battle_keyword_Title_0113":"列奧尼達的遺志",
+      "Battle_keyword_Title_0114":"垃圾魔像",
+      "Battle_keyword_Title_0115":"凍結的魔像",
+      "Battle_keyword_Title_0116":"紅蓮魔術",
+      "Battle_keyword_Title_0117":"虎鯨",
+      "Battle_keyword_Title_0118":"地獄焰龍",
+      "Battle_keyword_Title_0119":"絕速的甲蟲",
+      "Battle_keyword_Title_0120":"絕死的毒蜂",
+      "Battle_keyword_Title_0121":"絕護的魔蠍",
+      "Battle_keyword_Title_0122":"亞德曼之鳥",
+      "Battle_keyword_Title_0123":"泡沫之月",
+      "Battle_keyword_Title_0124":"覺醒的熾天使",
+      "Battle_keyword_Title_0125":"甦醒的熾天使",
+      "Battle_keyword_Title_0126":"榮光的六翼天使・青金石",
+      "Battle_keyword_Title_0127":"梅杜莎",
+      "Battle_keyword_Title_0128":"梅杜莎",
+      "Battle_keyword_Title_0129":"甲賀女忍者",
+      "Battle_keyword_Title_0130":"甲賀女忍者",
+      "Battle_keyword_0001":"隨從或是護符的能力只在當「卡牌」在「手牌」上，並支付PP出場時發動。如果直接從「牌組」裡出場時將不會發動。",
+      "Battle_keyword_0002":"隨從或是護符的「遺言」能力將在此卡被「破壞」時發動，且本卡將被送入墓場。如果本卡被「消滅」，「遺言」能力將不會發動，亦不會被送入墓場。",
+      "Battle_keyword_0003":"隨從進化時的能力將在隨從「本身」使用 EP 進化時發動。其他隨從不會因他者的進化而發動能力。",
+      "Battle_keyword_0004":"隨從的「當～」能力只會在自己的回合隨著自己自身或是自己的隨從攻擊時發動。和在敵方回合時，敵方自身或是敵方隨從的攻擊行動無關。",
+      "Battle_keyword_0005":"擁有「守護」能力的隨從在場時，敵方隨從將無法攻擊其他隨從。但法術攻擊不在此限。而當擁有「守護」能力的隨從超過一位時，可任意擇一攻擊。",
+      "Battle_keyword_0006":"擁有「疾走」能力的隨從，在出場回合時可以對敵方自身或是隨從發動攻擊",
+      "Battle_keyword_0007":"擁有「潛伏」能力的隨從，在尚未主動攻擊前，將不會受到敵方的護符、咒術能力的指定，敵方的隨從也無法攻擊。擁有「潛伏」能力的隨從在攻擊後，將喪失「潛伏」能力。",
+      "Battle_keyword_0008":"擁有「必殺」能力的隨從，在攻擊敵方隨從或是受敵方隨從攻擊後，此敵方隨從將被破壞。即使造成 0 點傷害亦被破壞。",
+      "Battle_keyword_0009":"擁有「吸血」能力的隨從，在攻擊敵方自身或是敵方隨從時，「自己自身」將會回復「同等攻擊力」的體力。但如果受到敵方隨從攻擊，吸血能力將不會發動。",
+      "Battle_keyword_0010":"「覺醒」為「自己的 PP 值達到或大於7」的狀態。擁有「覺醒狀態時～」的能力的卡牌將在自己的PP值達到7時發動。",
+      "Battle_keyword_0011":"「復讐」為「自己自身體力在 10 以下（包含 10）」的狀態。擁有「復讐狀態時～」的能力將在自己自身體力小於或等於 10 時發動。",
+      "Battle_keyword_0012":"如果手牌裡有「咒術強化」的卡片時，每當自己使用「咒術」時，「咒術強化」將強化 1 回。此時手牌裡的咒術卡片其所需「費用」將減少，或是咒術本身對敵方造成的「傷害」將上升或強化。",
+      "Battle_keyword_0013":"擁有「倒數」的護符出場時，倒數的回合將會表示在護符之上，在自己的回合開始時，「倒數」將會前進一回。倒數到 0 時，護符將被破壞。",
+      "Battle_keyword_0014":"擁有「死靈術」的卡牌出場、或是進化等特定的時機，如果墓場數量多於死靈術所要求的數量時，墓場數量將減去所要求的數量來發動「死靈術」。如果墓場數量不足死靈術所需的數量時，「死靈術」將不會發動，亦不會減少墓場數量。",
+      "Battle_keyword_0015":"擁有「土之秘術」的卡牌出場、或是進化等特定的時機，如果場上擁有「土之印」屬性的護符，此護符將被破壞且發動「土之秘術」。「土之印」為卡片屬性的一種，可在卡片詳情畫面確認。",
+      "Battle_keyword_0016":"費用 1 隨從
+1/1
+(進化後)
+3/3",
+      "Battle_keyword_0017":"費用 2 咒術
+對敵方自身或敵方一位隨從造成 3 點的傷害。",
+      "Battle_keyword_0018":"費用 1 隨從
+1/1
+(進化後)
+3/3",
+      "Battle_keyword_0019":"費用 2 隨從
+2/2
+(進化後)
+4/4",
+      "Battle_keyword_0020":"費用 2 咒術
+召喚「侍衛魔像」。",
+      "Battle_keyword_0021":"費用 4 隨從
+3/3
+守護
+(進化後)
+5/5
+守護",
+      "Battle_keyword_0022":"費用 1 土之印・護符
+(沒有能力)
+(本卡為「土之印」屬性的護符。當本張卡牌在場上時，可發動「土之秘術」的能力。)",
+      "Battle_keyword_0023":"費用 6 咒術
+對敵方的一位隨從造成 5 點傷害。
+添加一枚「最終的詛咒」到手牌裡。
+
+[ffcd45]最終的詛咒[-]
+費用 9 咒術
+對敵方的一位隨從造成 8 點傷害。",
+      "Battle_keyword_0024":"費用 9 咒術
+對敵方的一位隨從造成 8 點傷害。",
+      "Battle_keyword_0025":"費用 1 兵士・隨從
+1/1
+(進化後)
+3/3",
+      "Battle_keyword_0026":"費用 1 兵士・隨從
+1/2
+(進化後)
+3/4",
+      "Battle_keyword_0027":"費用 2 兵士・隨從
+2/2
+(進化後)
+4/4",
+      "Battle_keyword_0028":"費用 3 兵士・隨從
+2/3
+守護
+(進化後)
+4/5
+守護",
+      "Battle_keyword_0029":"費用 3 兵士・隨從
+3/2
+疾走
+(進化後)
+5/4
+疾走",
+      "Battle_keyword_0030":"費用 3 兵士・隨從
+2/3
+守護
+(進化後)
+4/5
+守護",
+      "Battle_keyword_0031":"費用 1 兵士・隨從
+1/2
+(進化後)
+3/4",
+      "Battle_keyword_0032":"費用 1 隨從
+1/1
+(進化後)
+3/3",
+      "Battle_keyword_0033":"費用 3 隨從
+2/1
+疾走
+(進化後)
+4/3
+疾走",
+      "Battle_keyword_0034":"費用 4 隨從
+4/4
+(進化後)
+6/6",
+      "Battle_keyword_0035":"費用 5 隨從
+5/3
+(進化後)
+7/5",
+      "Battle_keyword_0036":"費用 5 隨從
+4/5
+守護
+(進化後)
+6/7
+守護",
+      "Battle_keyword_0037":"費用 6 隨從
+6/6
+(進化後)
+8/8",
+      "Battle_keyword_0038":"費用 5 隨從
+3/4
+疾走
+(進化後)
+5/6
+疾走",
+      "Battle_keyword_0039":"費用 6 隨從
+5/4
+守護
+無法被對手的能力指定。
+(進化後)
+7/6
+守護
+無法被對手的能力指定。",
+      "Battle_keyword_0040":"費用 4 隨從
+1/2
+守護
+遺言 召喚「詠唱：夢想之兔」。
+(進化後)
+3/4
+守護
+遺言 召喚「詠唱：夢想之兔」。",
+      "Battle_keyword_0041":"費用 5 隨從
+5/5
+(進化後)
+7/7",
+      "Battle_keyword_0042":"費用 6 隨從
+疾走
+(進化後)
+7/7
+疾走",
+      "Battle_keyword_0043":"費用 1 隨從
+1/1
+(進化後)
+3/3",
+      "Battle_keyword_0044":"費用 1 隨從
+1/1
+疾走
+在自己的回合結束後，此隨從將會消滅。
+(進化後)
+3/3
+疾走
+在自己的回合結束後，此隨從將會消滅。",
+      "Battle_keyword_0045":"費用 2 隨從
+2/2
+(進化後)
+4/4",
+      "Battle_keyword_0046":"費用 4 隨從
+4/4
+(進化後)
+6/6",
+      "Battle_keyword_0047":"費用 1 咒術
+對敵方自身或敵方一位隨從造成 2 點傷害。",
+      "Battle_keyword_0048":"費用 1 咒術
+使自己的一位隨從+2/+0。",
+      "Battle_keyword_0049":"費用 4 隨從
+2/2
+每當自己有「妖精」出場時，將其變成「花瓣劍術師」。
+(進化後)
+4/4
+每當自己有「妖精」出場時，將其變成「花瓣劍術師」。",
+      "Battle_keyword_0050":"費用 8 隨從
+5/5
+遺言 召喚「決鬥者・摩帝凱」。
+(進化後)
+7/7
+遺言 召喚「決鬥者・摩帝凱」。",
+      "Battle_keyword_0051":"費用 1 倒數・護符
+倒數 3
+遺言 召喚「夢幻之兔」。",
+      "Battle_keyword_0052":"費用 3 隨從
+3/2
+守護
+(進化後)
+3/2
+守護
+進化時 召喚「蜥蜴人」。",
+      "Battle_keyword_0053":"由 10 張強力的撒旦專用系列卡牌所組成的卡組",
+      "Battle_keyword_0054":"費用 3 隨從
+2/1
+攻撃時，對敵方自身造成 2 點傷害。
+在自己的回合開始後，與場上的「雙子囚徒・古拉斯」合體成「芙拉姆＝古拉斯」。
+(進化後)
+4/3
+攻撃時，對敵方自身造成 2 點傷害。
+在自己的回合開始後，與場上的「雙子囚徒・古拉斯」合體成「芙拉姆＝古拉斯」。",
+      "Battle_keyword_0055":"費用 3 隨從
+1/2
+攻撃時 ，對敵方全部隨從造成 1 點傷害。
+在自己的回合開始後，與場上的「雙子囚徒・芙拉姆」合體成「芙拉姆＝古拉斯」。
+(進化後)
+3/4
+攻撃時，對敵方全部隨從造成 1 點傷害。
+在自己的回合開始後，與場上的「雙子囚徒・芙拉姆」合體成「芙拉姆＝古拉斯」。",
+      "Battle_keyword_0056":"費用 7　隨從
+7/7
+疾走
+攻撃時，對敵方自身和敵方全部隨從造成 7 點傷害。
+(進化後)
+9/9
+疾走
+攻撃時，對敵方自身和敵方全部隨從造成 7 點傷害。
+",
+      "Battle_keyword_0057":"費用 1 隨從
+1/1
+(進化後)
+3/3",
+      "Battle_keyword_0058":"費用 2 咒術
+對敵方自身或敵方一位隨從造成 3 點傷害。",
+      "Battle_keyword_0059":"費用 1 隨從
+1/1
+(進化後)
+3/3",
+      "Battle_keyword_0060":"費用 2 隨從
+2/2
+(進化後)
+4/4",
+      "Battle_keyword_0061":"費用 2 咒術
+召喚「侍衛魔像」。",
+      "Battle_keyword_0062":"費用 4 隨從
+3/3
+守護
+(進化後)
+5/5
+守護",
+      "Battle_keyword_0063":"費用 1 土之印・護符
+(沒有能力)",
+      "Battle_keyword_0064":"費用 6 咒術
+對敵方的一位隨從造成 5 點傷害。
+添加一枚「最終的詛咒」到手牌裡。",
+      "Battle_keyword_0065":"費用 9 咒術
+對敵方的一位隨從造成 8 點傷害。",
+      "Battle_keyword_0066":"費用 1 兵士・隨從
+1/1
+(進化後)
+3/3",
+      "Battle_keyword_0067":"費用 1 兵士・隨從
+1/2
+(進化後)
+3/4",
+      "Battle_keyword_0068":"費用 2 兵士・隨從
+2/2
+(進化後)
+4/4",
+      "Battle_keyword_0069":"費用 3 兵士・隨從
+2/3
+守護
+(進化後)
+4/5
+守護",
+      "Battle_keyword_0070":"費用 3 兵士・隨從
+3/2
+疾走
+(進化後)
+5/4
+疾走",
+      "Battle_keyword_0071":"費用 3 兵士・隨從
+2/3
+守護
+(進化後)
+4/5
+守護",
+      "Battle_keyword_0072":"費用 1 兵士・隨從
+1/2
+(進化後)
+3/4",
+      "Battle_keyword_0073":"費用 1 隨從
+1/1
+(進化後)
+3/3",
+      "Battle_keyword_0074":"費用 3 隨從
+2/1
+疾走
+(進化後)
+4/3
+疾走",
+      "Battle_keyword_0075":"費用 4 隨從
+4/4
+(進化後)
+6/6",
+      "Battle_keyword_0076":"費用 5 隨從
+5/3
+(進化後)
+7/5",
+      "Battle_keyword_0077":"費用 5 隨從
+4/5
+守護
+(進化後)
+6/7
+守護",
+      "Battle_keyword_0078":"費用 6 隨從
+6/6
+(進化後)
+8/8",
+      "Battle_keyword_0079":"費用 5 隨從
+3/4
+疾走
+(進化後)
+5/6
+疾走",
+      "Battle_keyword_0080":"費用 6 隨從
+5/4
+守護
+無法被對手的能力指定。
+(進化後)
+7/6
+守護
+無法被對手的能力指定。",
+      "Battle_keyword_0081":"費用 4 隨從
+1/2
+守護
+遺言 召喚「詠唱：夢想之兔」。
+(進化後)
+3/4
+守護
+遺言 召喚「詠唱：夢想之兔」。",
+      "Battle_keyword_0082":"費用 5 隨從
+5/5
+(進化後)
+7/7",
+      "Battle_keyword_0083":"費用 6 隨從
+5/5
+疾走
+(進化後)
+7/7
+疾走",
+      "Battle_keyword_0084":"費用 1 隨從
+1/1
+(進化後)
+3/3",
+      "Battle_keyword_0085":"費用 1 隨從
+1/1
+疾走
+在自己的回合結束後，此隨從將會消滅。
+(進化後)
+3/3
+疾走
+在自己的回合結束後，此隨從將被消滅。",
+      "Battle_keyword_0086":"費用 2 隨從
+2/2
+(進化後)
+4/4",
+      "Battle_keyword_0087":"費用 4 隨從
+4/4
+(進化後)
+6/6",
+      "Battle_keyword_0088":"費用 1 咒術
+對敵方自身或敵方一位隨從造成 2 點傷害。",
+      "Battle_keyword_0089":"費用 1 咒術
+使自己的一位隨從+2/+0。",
+      "Battle_keyword_0090":"費用 4 隨從
+2/2
+每當自己有「妖精」出場時，將其變成「花瓣劍術師」。
+(進化後)
+4/4
+每當自己有「妖精」出場時，將其變成「花瓣劍術師」。",
+      "Battle_keyword_0091":"費用 8 隨從
+5/5
+遺言 召喚「決鬥者・摩帝凱」。
+(進化後)
+7/7
+遺言 召喚「決鬥者・摩帝凱」。",
+      "Battle_keyword_0092":"費用 1 倒數・護符
+倒數 3
+遺言 召喚「夢幻之兔」。",
+      "Battle_keyword_0093":"費用 3 隨從
+3/2
+守護
+(進化後)
+3/2
+守護
+進化時 召喚「蜥蜴人」。",
+      "Battle_keyword_0094":"擁有「突進」能力的隨從，在出場時可攻擊敵方隨從，但無法攻擊敵方自身（待下一回合即可攻擊敵方自身）。",
+      "Battle_keyword_0095":"費用 4 隨從
+4/4
+(進化後)
+6/6",
+      "Battle_keyword_0096":"費用 1 兵士・隨從
+1/1
+守護
+(進化後)
+3/3
+守護",
+      "Battle_keyword_0097":"費用 9 指揮官・護符
+每當自己有隨從出場時，此隨從將得到 +3/+3，並獲得「突進」能力。",
+      "Battle_keyword_0098":"費用 1 隨從
+0/2
+守護
+(進化後)
+2/4
+守護",
+      "Battle_keyword_0099":"費用 3 隨從
+5/5
+守護
+此隨從無法攻擊。
+在敵方的回合結束後，本隨從將被破壞。
+(進化後)
+7/7
+守護
+此隨從無法攻擊。
+在敵方的回合結束後，本隨從將被破壞。",
+      "Battle_keyword_0100":"費用 1 咒術
+對敵方自身或敵方一位隨從造成 3 點傷害。",
+      "Battle_keyword_0101":"費用 2 隨從
+2/2
+(進化後)
+4/4",
+      "Battle_keyword_0102":"費用 2 隨從
+4/3
+突進
+(進化後)
+6/5
+突進",
+      "Battle_keyword_0103":"費用 4 隨從
+2/3
+疾走
+吸血
+(進化後)
+4/5
+疾走
+吸血",
+      "Battle_keyword_0104":"費用 4 隨從
+3/2
+突進
+必殺
+(進化後)
+5/4
+突進
+必殺",
+      "Battle_keyword_0105":"費用 4 隨從
+4/4
+守護
+(進化後)
+6/6
+守護",
+      "Battle_keyword_0106":"費用 5 隨從
+3/5
+突進
+(進化後)
+5/7
+突進",
+      "Battle_keyword_0107":"費用 6 倒數・護符
+倒數 3
+在自己的回合結束後，將敵方攻擊力最高的一位隨從的攻擊力變為 1。
+(如果攻撃力最高的隨從超過一位，則隨機指定其當中的一位。)",
+      "Battle_keyword_0108":"費用 8 倒數・護符
+倒數 1
+遺言 召喚「甦醒的熾天使」。
+
+[ffcd45]甦醒的熾天使[-]
+費用 8 倒數・護符
+倒數 1
+遺言 召喚「榮光的六翼天使・青金石」。
+
+[ffcd45]榮光的六翼天使・青金石[-]
+費用 8 倒數・護符
+倒數 1
+遺言 獲得本次對戰的勝利。",
+      "Battle_keyword_0109":"費用 8 倒數・護符
+倒數 1
+遺言 召喚「榮光的六翼天使・青金石」。
+
+[ffcd45]榮光的六翼天使・青金石[-]
+費用 8 倒數・護符
+倒數 1
+遺言 獲得本次對戰的勝利。",
+      "Battle_keyword_0110":"費用 8 倒數・護符
+倒數 1
+遺言 獲得本次對戰的勝利。",
+      "Battle_keyword_0111":"費用 4 隨從
+4/4
+(進化後)
+6/6",
+      "Battle_keyword_0112":"費用 1 兵士・隨從
+1/1
+守護
+(進化後)
+3/3
+守護",
+      "Battle_keyword_0113":"費用 9 指揮官・護符
+每當自己有隨從出場時，此隨從將得到 +3/+3，並獲得「突進」能力。",
+      "Battle_keyword_0114":"費用 1 隨從
+0/2
+守護
+(進化後)
+2/4
+守護",
+      "Battle_keyword_0115":"費用 3 隨從
+5/5
+守護
+此隨從無法攻擊。
+在敵方的回合結束後，本隨從將被破壞。
+(進化後)
+7/7
+守護
+此隨從無法攻擊。
+在敵方的回合結束後，本隨從將被破壞。",
+      "Battle_keyword_0116":"費用 1 咒術
+對敵方自身或敵方一位隨從造成 3 點傷害。",
+      "Battle_keyword_0117":"費用 2 隨從
+2/2
+(進化後)
+4/4",
+      "Battle_keyword_0118":"費用 2 隨從
+4/3
+突進
+(進化後)
+6/5
+突進",
+      "Battle_keyword_0119":"費用 4 隨從
+2/3
+疾走
+吸血
+(進化後)
+4/5
+疾走
+吸血",
+      "Battle_keyword_0120":"費用 4 隨從
+3/2
+突進
+必殺
+(進化後)
+5/4
+突進
+必殺",
+      "Battle_keyword_0121":"費用 4 隨從
+4/4
+守護
+(進化後)
+6/6
+守護",
+      "Battle_keyword_0122":"費用 5 隨從
+3/5
+突進
+(進化後)
+5/7
+突進",
+      "Battle_keyword_0123":"費用 6 倒數・護符
+倒數3
+在自己的回合結束後，將敵方攻擊力最高的一位隨從的攻擊力變為 1。
+(如果攻撃力最高的隨從超過一位，則隨機指定其當中的一位。)",
+      "Battle_keyword_0124":"費用 8 倒數・護符
+倒數 1
+遺言 召喚「甦醒的熾天使」。
+
+[ffcd45]甦醒的熾天使[-]
+費用 8 倒數・護符
+倒數 1
+遺言 召喚「榮光的六翼天使・青金石」。
+
+[ffcd45]榮光的六翼天使・青金石[-]
+費用 8 倒數・護符
+倒數 1
+遺言 獲得本次對戰的勝利。",
+      "Battle_keyword_0125":"費用 8 倒數・護符
+倒數 1
+遺言 召喚「榮光的六翼天使・青金石」。
+
+[ffcd45]榮光的六翼天使・青金石[-]
+費用 8 倒數・護符
+倒數 1
+遺言 獲得本次對戰的勝利。",
+      "Battle_keyword_0126":"費用 8 倒數・護符
+倒數 1
+遺言 獲得本次對戰的勝利。",
+      "Battle_keyword_0127":"",
+      "Battle_keyword_0128":"",
+      "Battle_keyword_0129":"",
+      "Battle_keyword_0130":""
+    }
+  }
+}
